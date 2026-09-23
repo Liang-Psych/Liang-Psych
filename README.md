@@ -16,4 +16,5 @@
 - Single-user data platform: Positron/RStudio, Pixi envs, commercial ODBC (Oracle/MySQL/Spark), MCP data gateways
 - Interests: kernel lifecycle forensics, containerized data science, AI-assisted analysis
 
-![stats](https://github-readme-stats.vercel.app/api?username=Liang-Psych&show_icons=true&theme=dark)
+* Languages: R · Python · TypeScript · Rust (reading) · SQL
+* Glue: Docker · Linux · Git · ODBC · MCP
