@@ -5,7 +5,7 @@
 ## Upstream work
 
 - [posit-dev/positron#16167](https://github.com/posit-dev/positron/issues/16167) — filed: stale kernel-supervisor tombstones from Linux TID collisions + missing `removeByPid` on shutdown errors
-- [posit-dev/positron#16176](https://github.com/posit-dev/positron/pull/16176) — fix: socket + `/proc` comm guards, registry cleanup on `ENOENT`/`ECONNREFUSED`, unit tests
+- [posit-dev/positron#16176](https://github.com/posit-dev/positron/pull/16176) — fix: socket + `/proc` comm guards, registry cleanup on `ENOENT`/`ECONNREFUSED`, unit tests (adopted upstream as [#16224](https://github.com/posit-dev/positron/pull/16224))
 
 ## Daily drivers
 
